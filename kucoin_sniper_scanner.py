@@ -104,6 +104,6 @@ if __name__ == "__main__":
     while True:
         run_sniper_loop()
         time.sleep(60)
-r scanner is running...")
+print("KuCoin sniper scanner is running...")
 while True:
     pass  # Replace this with your real logic later
